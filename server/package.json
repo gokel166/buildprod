@@ -1,0 +1,16 @@
+{
+  "name": "experts-server",
+  "version": "0.1.0",
+  "description": "Experts REST bckend",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node src/index.js",
+    "test": "eslint src/ && babel-node test/"
+  },
+  "keywords": [
+    "rest",
+    "javascript"
+  ],
+  "author": "george okello",
+  "license": "MIT"
+}
